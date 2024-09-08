@@ -1,0 +1,3 @@
+export const TARGET_TAB_EXPIRED = "2023-09-15";
+export const FILTER_DAILY_EXPIRED = "2023-09-15";
+export const REKAP_TAB_EXPIRED = "2024-01-31";

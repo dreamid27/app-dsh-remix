@@ -1,0 +1,1031 @@
+[
+  {
+    "bankID": 71,
+    "bankName": "PT. BCA (BANK CENTRAL ASIA) TBK",
+    "clearingCode": "0140397",
+    "abbreviation": "BCA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 82,
+    "bankName": "PT. BANK NEGARA INDONESIA (BNI) (PERSERO)",
+    "clearingCode": "0090010",
+    "abbreviation": "BNI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 102,
+    "bankName": "PT. BANK RAKYAT INDONESIA (BRI) (PERSERO)",
+    "clearingCode": "0020307",
+    "abbreviation": "BRI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 120,
+    "bankName": "PT. BANK CIMB NIAGA TBK",
+    "clearingCode": "0220026",
+    "abbreviation": "CIMB NIAGA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 143,
+    "bankName": "CITIBANK NA",
+    "clearingCode": "0310305",
+    "abbreviation": "CITIBANK",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 117,
+    "bankName": "PT. BANK DANAMON INDONESIA TBK",
+    "clearingCode": "0110042",
+    "abbreviation": "DANAMON",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 146,
+    "bankName": "PT. BANK MANDIRI",
+    "clearingCode": "",
+    "abbreviation": "MANDIRI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 110,
+    "bankName": "ANZ INDONESIA",
+    "clearingCode": "0610306",
+    "abbreviation": "ANZ INDONESIA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 122,
+    "bankName": "BANGKOK BANK PUBLIC CO. LTD",
+    "clearingCode": "0400309",
+    "abbreviation": "BANGKOK",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 151,
+    "bankName": "BANK ACEH",
+    "clearingCode": "1169924",
+    "abbreviation": "ACEH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 150,
+    "bankName": "BANK ACEH SYARIAH",
+    "clearingCode": "1169900",
+    "abbreviation": "ACEH SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 126,
+    "bankName": "BANK JABAR BANTEN SYARIAH",
+    "clearingCode": "4250018",
+    "abbreviation": "BJB SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 57,
+    "bankName": "BANK JATIM UNIT USAHA SYARIAH",
+    "clearingCode": "1149928",
+    "abbreviation": "JATIM SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 78,
+    "bankName": "BANK MNC INTERNASIONAL",
+    "clearingCode": "4850010",
+    "abbreviation": "MNC",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 121,
+    "bankName": "BANK OF AMERICA NA",
+    "clearingCode": "0330301",
+    "abbreviation": "BOA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 135,
+    "bankName": "BANK OF CHINA LIMITED",
+    "clearingCode": "0690300",
+    "abbreviation": "BOC",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 104,
+    "bankName": "BANK SHINHAN INDONESIA",
+    "clearingCode": "1520013",
+    "abbreviation": "SHINHAN",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 5,
+    "bankName": "BPD JATIM",
+    "clearingCode": "1140011",
+    "abbreviation": "BPD JATIM",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 27,
+    "bankName": "BPD KALIMANTAN SELATAN",
+    "clearingCode": "1220012",
+    "abbreviation": "BPD KALSEL",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 26,
+    "bankName": "BPD KALIMANTAN SELATAN SYARIAH",
+    "clearingCode": "1229929",
+    "abbreviation": "KALSEL SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 52,
+    "bankName": "BPD KALTIM UUS",
+    "clearingCode": "1249925",
+    "abbreviation": "BPD KALTIM UUS",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 24,
+    "bankName": "BPD LAMPUNG",
+    "clearingCode": "1210051",
+    "abbreviation": "BPD LAMPUNG",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 35,
+    "bankName": "BPD NUSA TENGGARA TIMUR",
+    "clearingCode": "1300013",
+    "abbreviation": "BPD NTT",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 41,
+    "bankName": "BPD SUMATERA BARAT (BANK NAGARI)",
+    "clearingCode": "1180013",
+    "abbreviation": "BPD SUMBAR",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 42,
+    "bankName": "BPD SUMATERA BARAT (NAGARI) SYARIAH",
+    "clearingCode": "1189920",
+    "abbreviation": "SUMBAR SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 45,
+    "bankName": "BPD SUMSEL DAN BABEL",
+    "clearingCode": "1200016",
+    "abbreviation": "SUMSEL DAN BABEL",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 55,
+    "bankName": "BPD YOGYAKARTA",
+    "clearingCode": "1120015",
+    "abbreviation": "BPD DIY",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 90,
+    "bankName": "DEUTSCHE BANK AG",
+    "clearingCode": "0670304",
+    "abbreviation": "DGZ",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 123,
+    "bankName": "HSBC INDONESIA",
+    "clearingCode": "0410302",
+    "abbreviation": "HSBC",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 1,
+    "bankName": "HSBC UNIT USAHA SYARIAH",
+    "clearingCode": "0419921",
+    "abbreviation": "HSBC SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 142,
+    "bankName": "INDONESIA EXIMBANK",
+    "clearingCode": "0030012",
+    "abbreviation": "EXIMBANK",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 134,
+    "bankName": "JPMORGAN CHASE BANK NA",
+    "clearingCode": "0320308",
+    "abbreviation": "CHASE",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 66,
+    "bankName": "KEB HANA BANK INDONESIA",
+    "clearingCode": "4840017",
+    "abbreviation": "HANA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 152,
+    "bankName": "MAYBANK INDONESIA UNIT SYARIAH",
+    "clearingCode": "0169925",
+    "abbreviation": "MAYBANK SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 128,
+    "bankName": "PT. AGRONIAGA BANK",
+    "clearingCode": "4940014",
+    "abbreviation": "AGRONIAGA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 58,
+    "bankName": "PT.ANGLOMAS INTERNATIONAL BANK",
+    "clearingCode": "5310012",
+    "abbreviation": "AIB",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 72,
+    "bankName": "PT. ARTAJASA PEMBAYARAN ELEKTRONIK",
+    "clearingCode": "ATJSIDJ2",
+    "abbreviation": "ARTAJASA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 101,
+    "bankName": "PT. BANK AGRIS",
+    "clearingCode": "9450305",
+    "abbreviation": "AGRIS",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 31,
+    "bankName": "PT. BANK ANDARA",
+    "clearingCode": "4660019",
+    "abbreviation": "ANDARA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 3,
+    "bankName": "PT. BANK ANTAR DAERAH",
+    "clearingCode": "0880013",
+    "abbreviation": "BAD",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 129,
+    "bankName": "PT. BANK ARTHA GRAHA INT TBK",
+    "clearingCode": "0370028",
+    "abbreviation": "ARTHA GRAHA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 80,
+    "bankName": "PT. BANK BCA SYARIAH",
+    "clearingCode": "5360017",
+    "abbreviation": "BCA SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 25,
+    "bankName": "PT. BANK BISNIS INTERNATIONAL",
+    "clearingCode": "4590011",
+    "abbreviation": "BISNIS",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 111,
+    "bankName": "PT. BANK BUMI ARTA",
+    "clearingCode": "0760010",
+    "abbreviation": "BBA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 141,
+    "bankName": "PT. BANK CAPITAL INDONESIA",
+    "clearingCode": "0540308",
+    "abbreviation": "CAPITAL",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 136,
+    "bankName": "PT. BANK CHINATRUST INDONESIA",
+    "clearingCode": "9490307",
+    "abbreviation": "CHINATRUST",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 133,
+    "bankName": "PT. BANK CIMB NIAGA SYARIAH",
+    "clearingCode": "0229920",
+    "abbreviation": "CIMB SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 70,
+    "bankName": "PT. BANK COMMONWEALTH",
+    "clearingCode": "9500307",
+    "abbreviation": "COMMONWEALTH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 144,
+    "bankName": "PT. BANK DANAMON IND SYARIAH",
+    "clearingCode": "0119920",
+    "abbreviation": "DANAMON SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 114,
+    "bankName": "PT. BANK DBS INDONESIA",
+    "clearingCode": "0460307",
+    "abbreviation": "DBS",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 68,
+    "bankName": "PT. BANK DIPO INTERNATIONAL",
+    "clearingCode": "5230011",
+    "abbreviation": "DIPO INT",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 113,
+    "bankName": "PT. BANK DKI",
+    "clearingCode": "1110012",
+    "abbreviation": "DKI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 92,
+    "bankName": "PT. BANK DKI UNIT USAHA SYARIAH",
+    "clearingCode": "1119916",
+    "abbreviation": "DKI SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 139,
+    "bankName": "PT. BANK EKONOMI RAHARJA",
+    "clearingCode": "0870010",
+    "abbreviation": "EKONOMI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 69,
+    "bankName": "PT. BANK FAMA INTERNATIONAL",
+    "clearingCode": "5620029",
+    "abbreviation": "FAMA INT",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 74,
+    "bankName": "PT. BANK GANESHA",
+    "clearingCode": "1610017",
+    "abbreviation": "GANESHA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 145,
+    "bankName": "PT. BANK HARDA INTERNASIONAL",
+    "clearingCode": "5670011",
+    "abbreviation": "BHI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 11,
+    "bankName": "PT. BANK ICBC INDONESIA",
+    "clearingCode": "1640100",
+    "abbreviation": "ICBC",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 95,
+    "bankName": "PT. BANK INA PERDANA",
+    "clearingCode": "5130014",
+    "abbreviation": "INA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 60,
+    "bankName": "PT. BANK INDEX SELINDO",
+    "clearingCode": "5550018",
+    "abbreviation": "INDEX",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 4,
+    "bankName": "PT. BANK JABAR DAN BANTEN",
+    "clearingCode": "1100019",
+    "abbreviation": "BJB",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 15,
+    "bankName": "PT. Bank Jago Tbk",
+    "clearingCode": "5420012",
+    "abbreviation": "JAGO",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 185,
+    "bankName": "PT. BANK JAGO TBK SYARIAH",
+    "clearingCode": "5429394",
+    "abbreviation": "JAGO Syariah",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 59,
+    "bankName": "PT. BANK JASA JAKARTA",
+    "clearingCode": "4720014",
+    "abbreviation": "BJJ",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 50,
+    "bankName": "PT. BANK KALBAR SYARIAH",
+    "clearingCode": "1239922",
+    "abbreviation": "KALBAR SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 106,
+    "bankName": "PT. BANK KESAWAN",
+    "clearingCode": "1670015",
+    "abbreviation": "KESAWAN",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 99,
+    "bankName": "PT. BANK KESEJAHTERAAN EKONOMI (SeaBank)",
+    "clearingCode": "5350014",
+    "abbreviation": "SEABANK",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 98,
+    "bankName": "PT. BANK LIMAN INTERNATIONAL",
+    "clearingCode": "5260010",
+    "abbreviation": "LIMAN",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 10,
+    "bankName": "PT. BANK MASPION INDONESIA",
+    "clearingCode": "1570018",
+    "abbreviation": "MASPION",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 140,
+    "bankName": "PT. BANK MAYAPADA INTERNASIONAL T",
+    "clearingCode": "0970017",
+    "abbreviation": "MAYAPADA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 118,
+    "bankName": "PT BANK MAYBANK INDONESIA TBK",
+    "clearingCode": "0160131",
+    "abbreviation": "MAYBANK",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 2,
+    "bankName": "PT. BANK MAYBANK SYARIAH INDONESIA",
+    "clearingCode": "9470302",
+    "abbreviation": "MAYBANK SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 64,
+    "bankName": "PT. BANK MAYORA INDONESIA",
+    "clearingCode": "5530012",
+    "abbreviation": "MAYORA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 13,
+    "bankName": "PT. BANK MEGA TBK",
+    "clearingCode": "4260121",
+    "abbreviation": "MEGA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 9,
+    "bankName": "PT. BANK MESTIKA DHARMA",
+    "clearingCode": "1510010",
+    "abbreviation": "BMD",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 61,
+    "bankName": "PT. BANK MITRANIAGA",
+    "clearingCode": "4910015",
+    "abbreviation": "MITRANIAGA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 115,
+    "bankName": "PT. BANK MIZUHO INDONESIA",
+    "clearingCode": "0480303",
+    "abbreviation": "MIZUHO",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 73,
+    "bankName": "PT. BANK MUAMALAT INDONESIA",
+    "clearingCode": "1470011",
+    "abbreviation": "MUAMALAT",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 81,
+    "bankName": "PT. BANK MULTIARTA SENTOSA",
+    "clearingCode": "5480010",
+    "abbreviation": "MAS",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 91,
+    "bankName": "PT. BANK MUTIARA TBK",
+    "clearingCode": "0950011",
+    "abbreviation": "MUTIARA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 62,
+    "bankName": "PT. BANK NATIONALNOBU",
+    "clearingCode": "5030017",
+    "abbreviation": "NOBU",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 93,
+    "bankName": "PT. BANK NEO COMMERCE TBK.",
+    "clearingCode": "4900012",
+    "abbreviation": "NEO",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 39,
+    "bankName": "PT. BANK NTB UNIT USAHA SYARIAH",
+    "clearingCode": "SYNBIDJ1",
+    "abbreviation": "NTB SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 8,
+    "bankName": "PT. BANK NUSANTARA PARAHYANGAN",
+    "clearingCode": "1450015",
+    "abbreviation": "BNP",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 84,
+    "bankName": "PT. BANK OCBC NISP TBK",
+    "clearingCode": "0280024",
+    "abbreviation": "OCBC NISP",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 17,
+    "bankName": "PT. BANK OCBC NISP TBK SYARIAH",
+    "clearingCode": "0289928",
+    "abbreviation": "OCBC",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 83,
+    "bankName": "PT. BANK PAN INDONESIA TBK (PANIN)",
+    "clearingCode": "0190017",
+    "abbreviation": "PANIN",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 96,
+    "bankName": "PT. BANK PANIN SYARIAH",
+    "clearingCode": "5170016",
+    "abbreviation": "PANIN SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 32,
+    "bankName": "PT. BANK PEMBANGUNAN DAERAH JAMBI",
+    "clearingCode": "1150014",
+    "abbreviation": "BPD JAMBI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 33,
+    "bankName": "PT. BANK PEMBANGUNAN DAERAH PAPUA",
+    "clearingCode": "1320019",
+    "abbreviation": "BPD PAPUA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 67,
+    "bankName": "PT. BANK PERMATA TBK",
+    "clearingCode": "0130475",
+    "abbreviation": "PERMATA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 132,
+    "bankName": "PT. BANK PERMATA TBK SYARIAH",
+    "clearingCode": "0139926",
+    "abbreviation": "PERMATA SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 65,
+    "bankName": "PT. BANK PUNDI INDONESIA",
+    "clearingCode": "5580017",
+    "abbreviation": "PUNDI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 112,
+    "bankName": "PT. BANK RABOBANK INTERNATIONAL IND",
+    "clearingCode": "0890016",
+    "abbreviation": "RABOBANK",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 86,
+    "bankName": "PT. BANK RESONA PERDANIA",
+    "clearingCode": "0470300",
+    "abbreviation": "BRP",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 79,
+    "bankName": "PT. BANK ROYAL INDONESIA",
+    "clearingCode": "5010011",
+    "abbreviation": "ROYAL INDONESIA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 54,
+    "bankName": "PT. BANK SAHABAT PURBA DANARTA",
+    "clearingCode": "5470017",
+    "abbreviation": "SAHABAT",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 147,
+    "bankName": "PT. BANK SAHABAT SAMPOERNA",
+    "clearingCode": "5230011",
+    "abbreviation": "SAMPOERNA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 94,
+    "bankName": "PT. BANK SBI INDONESIA",
+    "clearingCode": "4980016",
+    "abbreviation": "SBI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 30,
+    "bankName": "PT. BANK SINAR HARAPAN BALI",
+    "clearingCode": "5640012",
+    "abbreviation": "SHB",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 105,
+    "bankName": "PT. BANK SINARMAS",
+    "clearingCode": "1530016",
+    "abbreviation": "SINARMAS",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 125,
+    "bankName": "PT. BANK SINARMAS SYARIAH",
+    "clearingCode": "1539923",
+    "abbreviation": "SINARMAS SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 37,
+    "bankName": "PT. BANK SULSELBAR",
+    "clearingCode": "1260027",
+    "abbreviation": "SULSELBAR",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 36,
+    "bankName": "PT. BANK SULSELBAR SYARIAH",
+    "clearingCode": "1269947",
+    "abbreviation": "SSB SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 7,
+    "bankName": "PT. BANK SULUT",
+    "clearingCode": "1270017",
+    "abbreviation": "SULUT",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 124,
+    "bankName": "PT. BANK SUMITOMO MITSUI INDONESIA",
+    "clearingCode": "0450304",
+    "abbreviation": "SMBCI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 6,
+    "bankName": "PT. BANK SUMUT (BPD SUMUT)",
+    "clearingCode": "1170010",
+    "abbreviation": "BPD SUMUT",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 103,
+    "bankName": "PT. BANK SWADESI TBK",
+    "clearingCode": "1460047",
+    "abbreviation": "SWADESI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 97,
+    "bankName": "PT. BANK SYARIAH BUKOPIN",
+    "clearingCode": "5210031",
+    "abbreviation": "SYARIAH BUKOPIN",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 148,
+    "bankName": "PT. BANK SYARIAH INDONESIA",
+    "clearingCode": "4510017",
+    "abbreviation": "BSI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 77,
+    "bankName": "PT. BANK SYARIAH INDONESIA",
+    "clearingCode": "4510017",
+    "abbreviation": "BSM",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 131,
+    "bankName": "PT. BANK SYARIAH MEGA INDONESIA",
+    "clearingCode": "5060016",
+    "abbreviation": "BSMI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 107,
+    "bankName": "PT. BANK TABUNGAN NEGARA (BTN) (PERSERO)",
+    "clearingCode": "2000150",
+    "abbreviation": "BTN",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 108,
+    "bankName": "PT. BANK TABUNGAN PENSIUNAN NASIONAL",
+    "clearingCode": "2130101",
+    "abbreviation": "BTPN",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 19,
+    "bankName": "PT. BANK TABUNGAN PENSIUNAN NASIONAL (BTPN) SYARIAH",
+    "clearingCode": "2130101",
+    "abbreviation": "BTPN SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 63,
+    "bankName": "PT. BANK UOB INDONESIA",
+    "clearingCode": "0230016",
+    "abbreviation": "UOB INDONESIA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 100,
+    "bankName": "PT. BANK VICTORIA INTERNATIONAL",
+    "clearingCode": "5660018",
+    "abbreviation": "VICTORIA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 76,
+    "bankName": "PT. BANK VICTORIA SYARIAH",
+    "clearingCode": "4050072",
+    "abbreviation": "VICTORIA SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 18,
+    "bankName": "PT. BANK WINDU KENTJANA INTERNATIONAL TBK",
+    "clearingCode": "0360300",
+    "abbreviation": "WINDU",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 138,
+    "bankName": "PT. BANK WOORI INDONESIA",
+    "clearingCode": "2120001",
+    "abbreviation": "BWS",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 12,
+    "bankName": "PT. B. HIMPUNAN SAUDARA 1906 TBK",
+    "clearingCode": "2120001",
+    "abbreviation": "SAUDARA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 119,
+    "bankName": "PT. BII TBK. SYARIAH",
+    "clearingCode": "0169925",
+    "abbreviation": "BII",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 88,
+    "bankName": "PT. BNP PARIBAS INDONESIA",
+    "clearingCode": "0570307",
+    "abbreviation": "PARIBAS",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 29,
+    "bankName": "PT. BPD BALI",
+    "clearingCode": "1290013",
+    "abbreviation": "BPD BALI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 28,
+    "bankName": "PT. BPD BENGKULU",
+    "clearingCode": "1330012",
+    "abbreviation": "BPD BENGKULU",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 56,
+    "bankName": "PT. BPD DIY SYARIAH",
+    "clearingCode": "1129922",
+    "abbreviation": "BPD DIY SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 53,
+    "bankName": "PT. BPD JAWA TENGAH",
+    "clearingCode": "1130348",
+    "abbreviation": "BPD JATENG",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 20,
+    "bankName": "PT. BPD JAWA TENGAH SYARIAH",
+    "clearingCode": "1139938",
+    "abbreviation": "JATENG SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 49,
+    "bankName": "PT. BPD KALIMANTAN BARAT",
+    "clearingCode": "1230015",
+    "abbreviation": "BPD KALBAR",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 51,
+    "bankName": "PT. BPD KALIMANTAN TIMUR",
+    "clearingCode": "1240018",
+    "abbreviation": "BPD KALTIM",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 43,
+    "bankName": "PT. BPD KALTENG",
+    "clearingCode": "1250011",
+    "abbreviation": "BPD KALTENG",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 21,
+    "bankName": "PT. BPD MALUKU",
+    "clearingCode": "1310016",
+    "abbreviation": "BPD MALUKU",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 38,
+    "bankName": "PT. BPD NUSA TENGGARA BARAT",
+    "clearingCode": "1280010",
+    "abbreviation": "BPD NTB",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 47,
+    "bankName": "PT. BPD RIAU",
+    "clearingCode": "1190016",
+    "abbreviation": "BPD RIAU",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 48,
+    "bankName": "PT. BPD RIAU UNIT USAHA SYARIAH",
+    "clearingCode": "SYRIIDJ1",
+    "abbreviation": "BPD RIAU SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 46,
+    "bankName": "PT.BPD SULAWESI TENGAH",
+    "clearingCode": "1340015",
+    "abbreviation": "BPD SULTENG",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 34,
+    "bankName": "PT. BPD SULAWESI TENGGARA",
+    "clearingCode": "1350018",
+    "abbreviation": "BPD SULTRA",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 44,
+    "bankName": "PT. BPD SUMSEL DAN BABEL SYARIAH",
+    "clearingCode": "1209923",
+    "abbreviation": "BPD SB SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 40,
+    "bankName": "PT. BPD SUMUT SYARIAH",
+    "clearingCode": "1179927",
+    "abbreviation": "SUMUT SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 75,
+    "bankName": "PT. BTN (PERSERO) SYARIAH",
+    "clearingCode": "2009928",
+    "abbreviation": "BTN SYARIAH",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 137,
+    "bankName": "PT. BUKOPIN",
+    "clearingCode": "4410010",
+    "abbreviation": "BUKOPIN",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 16,
+    "bankName": "PT. CENTRATAMA NASIONAL BANK",
+    "clearingCode": "5590010",
+    "abbreviation": "CNB",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 127,
+    "bankName": "PT. KUSTODIAN SENTRAL EFEK INDONESIA",
+    "clearingCode": "KSEIIDJ1",
+    "abbreviation": "KSEI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 14,
+    "bankName": "PT. PRIMA MASTER BANK",
+    "clearingCode": "5200012",
+    "abbreviation": "PMB",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 87,
+    "bankName": "STANDARD CHARTERED BANK",
+    "clearingCode": "0500306",
+    "abbreviation": "SCB",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 85,
+    "bankName": "THE BOT MITSUBISHI UFJ LTD",
+    "clearingCode": "0420305",
+    "abbreviation": "MITSUBISHI",
+    "__typename": "DataBank"
+  },
+  {
+    "bankID": 116,
+    "bankName": "THE ROYAL BANK OF SCOTLAND N.V.",
+    "clearingCode": "0520302",
+    "abbreviation": "RBS",
+    "__typename": "DataBank"
+  }
+]

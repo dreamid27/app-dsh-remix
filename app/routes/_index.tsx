@@ -1,5 +1,4 @@
 import type { MetaFunction } from '@remix-run/node';
-import { Button } from '@chakra-ui/react';
 
 export const meta: MetaFunction = () => {
   return [
